@@ -46,7 +46,7 @@ profiles:
 #  - icon: brands/linkedin
 #    url: https://www.linkedin.com/
 
-research interests:
+interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
