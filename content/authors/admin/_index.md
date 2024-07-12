@@ -52,7 +52,7 @@ interests:
   - Information Retrieval
 
 education:
-  - area: B.S. in CS
+  - area: B.S. in Computer Science & Technology
     institution: Sun Yat-sen University (SYSU)
     date_start: 2016-09-01
     date_end: 2020-06-29
