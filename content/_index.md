@@ -18,20 +18,20 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-    design:
-       columns: '1'
+#    design:
+#       columns: '1'
 #      css_class: dark
-       background:
+#       background:
 #         color: 'ivory'
 #         text_color_light: false
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+#        image:
+#          # Add your image background to `assets/media/`.
+#          filename: stacked-peaks.svg
+#          filters:
+#            brightness: 1.0
+#          size: cover
+#          position: center
+#          parallax: false
 #  - block: markdown
 #    content:
 #      title: '📚 My Research'
