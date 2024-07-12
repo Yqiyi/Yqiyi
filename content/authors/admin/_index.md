@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-I am a Ph. D. Candidate at the School of Cyber Science & Technology, University of Science & Technology of China (USTC). I work in a number of areas including information theory, coding theory, and their applications in communications and security (covert communications). Here are my papers and preprints. I will approximately graduate in June, 2025.
+I am a Ph.D. Candidate at the School of Cyber Science & Technology, University of Science & Technology of China (USTC). I work in a number of areas including information theory, coding theory, and their applications in communications and security (covert communications). Here are my papers and preprints. I will approximately graduate in June, 2025.
