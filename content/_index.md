@@ -22,7 +22,7 @@ sections:
        columns: '1'
 #      css_class: dark
        background:
-         color: 'skyblue'
+         color: 'snow'
          text_color_light: true
 #        image:
 #          # Add your image background to `assets/media/`.
