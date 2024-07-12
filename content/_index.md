@@ -33,6 +33,14 @@ sections:
 #          size: cover
 #          position: center
 #          parallax: false
+  - block: resume-experience
+    content:
+      # The user's folder name in `content/authors/`
+      username: admin
+    design:
+      # Hugo date format
+#      date_format: 'January 2006'
+      is_education_first: false
 #  - block: markdown
 #    content:
 #      title: '📚 My Research'
