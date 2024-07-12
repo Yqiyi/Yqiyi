@@ -23,7 +23,7 @@ sections:
 #      css_class: dark
        background:
          color: 'ivory'
-         text_color_light: false
+#         text_color_light: false
 #        image:
 #          # Add your image background to `assets/media/`.
 #          filename: stacked-peaks.svg
