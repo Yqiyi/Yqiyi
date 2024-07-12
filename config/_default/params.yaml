@@ -57,4 +57,4 @@ features:
   math:
     enable: true
   privacy_pack:
-    enable: true
+    enable: false
