@@ -39,7 +39,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-#      date_format: 'January 2006'
+      date_format: 'January, 2006'
       is_education_first: false
 #  - block: markdown
 #    content:
