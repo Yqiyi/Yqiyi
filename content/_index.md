@@ -20,9 +20,10 @@ sections:
         url: uploads/resume.pdf
     design:
        columns: '1'
-       css_class: dark
-#      background:
-#        color: black
+#      css_class: dark
+       background:
+         color: 'navy'
+         text_color_light: true
 #        image:
 #          # Add your image background to `assets/media/`.
 #          filename: stacked-peaks.svg
