@@ -108,7 +108,7 @@ sections:
       title: 'Contact Information'
       subtitle: ''
       text: 
-        "Please contact me via e-mail and I will respond as soon as possible.<br> <center>E-mail: qyyao&commat;mail.ustc.edu.cn</center>"
+        "Please contact me via e-mail and I will respond as soon as possible.<br> <center>E-mail: [qyyao&commat;mail.ustc.edu.cn](qyyao&commat;mail.ustc.edu.cn)</center>"
     design:
       columns: '1'
 
