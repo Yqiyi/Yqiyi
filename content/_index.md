@@ -103,11 +103,12 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: markdown
+    id: contact
     content:
       title: 'Contact Information'
       subtitle: ''
       text: |-
-        Please contact me via e-mail and it may take up to a week for me to respond.
+        Please contact me via e-mail and I will respond as soon as possible.
         * Primary E-mail Address: [qyyao@mail.ustc.edu.cn](qyyao@mail.ustc.edu.cn)
         * Secondary E-Mail Address: [yaoqy5@qq.com](yaoqy5@qq.com)
     design:
