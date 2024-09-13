@@ -108,7 +108,7 @@ sections:
       title: 'Contact Information'
       subtitle: ''
       text: 
-        Please contact me via 
+        Please contact me via e-mail and I will respond as soon as possible.
     design:
       columns: '1'
 
