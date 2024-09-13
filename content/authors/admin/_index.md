@@ -54,8 +54,8 @@ interests:
 education:
   - area: B.S. in Computer Science & Technology
     institution: Sun Yat-sen University (SYSU)
-    date_start: 2016
-    date_end: 2020
+    date_start: 2016-09-01
+    date_end: 2020-06-30
 #  - area: PhD Artificial Intelligence
 #    institution: Stanford University
 #    date_start: 2016-01-01
