@@ -108,7 +108,7 @@ sections:
       title: 'Contact Information'
       subtitle: ''
       text: 
-        Please contact me via e-mail.
+        Please contact me via 
         Primary E-mail Address asd: asd [qyyao@mail.ustc.edu.cn](qyyao@mail.ustc.edu.cn)
     design:
       columns: '1'
