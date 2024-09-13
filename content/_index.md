@@ -108,7 +108,7 @@ sections:
       title: 'Contact Information'
       subtitle: ''
       text: 
-        Please contact me via e-mail and I will respond as soon as possible.
+        Please contact me via e-mail and I will respond as soon as possible. E-mail: [qyyao@mail.ustc.edu.cn](qyyao@mail.ustc.edu.cn)
     design:
       columns: '1'
 
