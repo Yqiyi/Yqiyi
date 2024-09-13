@@ -108,7 +108,6 @@ sections:
       title: 'Contact Information'
       subtitle: ''
       text: 
-        Please contact me 
         * Primary E-mail Address asd: asd [qyyao@mail.ustc.edu.cn](qyyao@mail.ustc.edu.cn)
         * Secondary E-Mail Address: [yaoqy5@qq.com](yaoqy5@qq.com)
     design:
