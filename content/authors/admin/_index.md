@@ -47,15 +47,15 @@ profiles:
 #    url: https://www.linkedin.com/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Information Theory
+  - Coding Theory
+  - Covert Communications
 
 education:
   - area: B.S. in Computer Science & Technology
     institution: Sun Yat-sen University (SYSU)
-    date_start: 2016-09-01
-    date_end: 2020-06-29
+    date_start: 2016
+    date_end: 2020
 #  - area: PhD Artificial Intelligence
 #    institution: Stanford University
 #    date_start: 2016-01-01
