@@ -14,7 +14,7 @@ main:
     url: /#news
     weight: 12
   - name: Contact
-    url: /#news
+    url: /#contact
     weight: 13
 #  - name: Talks
 #    url: /#talks
