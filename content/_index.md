@@ -109,8 +109,8 @@ sections:
       subtitle: ''
       text:
         Please contact me via e-mail and I will respond as soon as possible.
-        - Primary E-mail Address: [qyyao@mail.ustc.edu.cn](qyyao@mail.ustc.edu.cn)
-        - Secondary E-Mail Address: [yaoqy5@qq.com](yaoqy5@qq.com)
+        + Primary E-mail Address: [qyyao@mail.ustc.edu.cn](qyyao@mail.ustc.edu.cn)
+        + Secondary E-Mail Address: [yaoqy5@qq.com](yaoqy5@qq.com)
     design:
       columns: '1'
 
