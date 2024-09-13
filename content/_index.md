@@ -108,9 +108,7 @@ sections:
       title: 'Contact Information'
       subtitle: ''
       text: 
-        Please contact me via e-mail and I will respond as soon as possible.
-        * Primary E-mail Address asd: asd [qyyao@mail.ustc.edu.cn](qyyao@mail.ustc.edu.cn)
-        * Secondary E-Mail Address: [yaoqy5@qq.com](yaoqy5@qq.com)
+        Please contact me
     design:
       columns: '1'
 
