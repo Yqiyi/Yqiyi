@@ -6,16 +6,16 @@
 main:
   - name: Home
     url: /
-    weight: 10
-  - name: Papers
+    weight: 8
+  - name: Publications
     url: /#papers
-    weight: 11
-  - name: News
-    url: /#news
-    weight: 12
+    weight: 9
+  - name: Miscellaneous
+    url: /#miscellaneous
+    weight: 10
   - name: Contact
     url: /#contact
-    weight: 13
+    weight: 11
 #  - name: Talks
 #    url: /#talks
 #    weight: 13
