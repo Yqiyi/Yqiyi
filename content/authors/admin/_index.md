@@ -87,13 +87,17 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+
+
+# work:
+#  - position: Director of Cloud Infrastructure
+#    company_name: GenCoin
+#    company_url: ''
+#    company_logo: ''
+#    date_start: 2021-01-01
+#    date_end: ''
+
+    
 #    summary: |2-
 #      Responsibilities include:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -185,4 +189,4 @@ work:
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently a Ph.D. Candidate at the School of Cyber Science & Technology, University of Science & Technology of China (USTC). I work in a number of areas including information theory, coding theory, and their applications in communications and security (covert communications). Here are my papers and preprints. I will approximately graduate in June, 2025.
+I am currently a Ph.D. Candidate at the School of Cyber Science & Technology, University of Science & Technology of China (USTC). I work in a number of areas including information theory, coding theory, and their applications in communications and security (covert communications). Here are my papers and preprints.
