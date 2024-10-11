@@ -12,6 +12,7 @@ date: "13 December 2023"
 doi: "10.1109/TCOMM.2023.3342247"
 
 # Schedule page publish date (NOT publication's date).
+publishDate: "April 2024"
 # publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
@@ -29,7 +30,7 @@ publication_short: "TCOM"
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Steganographic Coding
 featured: false
 
 # links:
