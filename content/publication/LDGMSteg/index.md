@@ -12,7 +12,7 @@ date: "2023-12-13T00:00:00Z"
 doi: "10.1109/TCOMM.2023.3342247"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "April 2024"
+publishDate: "2024-04-01T00:00:00Z"
 # publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
