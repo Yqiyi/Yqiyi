@@ -12,7 +12,7 @@ date: "2023-12-13T00:00:00Z"
 doi: "10.1109/TCOMM.2023.3342247"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-04-01T00:00:00Z"
+publishDate: "2023-12-13T00:00:00Z"
 # publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
@@ -36,8 +36,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
