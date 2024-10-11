@@ -1,20 +1,21 @@
 ---
-title: 'An example conference paper'
+title: 'Optimality of polar codes in additive steganography under constant distortion profile'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Weiming Zhang
+  - Nenghai Yu
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
-doi: ''
+doi: '10.1109/WCSP55476.2022.10039228'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
