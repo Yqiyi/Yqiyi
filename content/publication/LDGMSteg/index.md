@@ -8,7 +8,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "13 December 2023"
+date: "2023-12-13T00:00:00Z"
 doi: "10.1109/TCOMM.2023.3342247"
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ publication_short: "TCOM"
 
 tags:
 - Steganographic Coding
-# featured: false
+featured: false
 
 # links:
 # - name: ""
