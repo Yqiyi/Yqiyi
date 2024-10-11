@@ -23,7 +23,7 @@ publication_types: ["article-journal"]
 publication: "IEEE Transactions on Communications"
 publication_short: "TCOM"
 
-abstract: Steganographic coding is an essential part of adaptive steganography. There are only two practical near-optimal codes in the context of adaptive steganography so far: Syndrome-Trellis Codes (STCs) based on linear convolutional codes and Steganographic Polar Codes (SPCs) based on polar codes. It can be noticed that both STCs and SPCs are based on channel codes. Like the need for the variety of cryptographic algorithms, to make steganography practical and secure, it is important to devise more adaptive steganographic codes to create more choices for users. Moreover, we want to solve the long-lasting problem of whether lossy source codes-based near-optimal adaptive steganographic coding exists. In this paper, we consider using Low-Density Generator-Matrix (LDGM) codes in adaptive steganography where a new algorithm is proposed. First, we describe the framework of our LDGM codes-based steganographic coding algorithm and establish rigorous upper bounds on average embedding efficiency for individual LDGM steganographic codes with a given information bit degree distribution under the constant distortion profile. Then, we give a provably optimal method of distortion incorporation for adaptive steganography and provide the corresponding log-domain Belief Propagation Guided Decimation (log-BPGD) algorithm to minimize the additive distortion. The syndrome coding technique is applied to realize definitive encoding and decoding of the secret message. We report experiments for various distortion profiles, payload rates, and code lengths. The results verify the near-optimal performance of the proposed method, by which the possibility of designing near-optimal adaptive steganographic coding methods based on lossy source coding is confirmed.
+# abstract:
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -66,12 +66,16 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+Abstract:
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+Steganographic coding is an essential part of adaptive steganography. There are only two practical near-optimal codes in the context of adaptive steganography so far: Syndrome-Trellis Codes (STCs) based on linear convolutional codes and Steganographic Polar Codes (SPCs) based on polar codes. It can be noticed that both STCs and SPCs are based on channel codes. Like the need for the variety of cryptographic algorithms, to make steganography practical and secure, it is important to devise more adaptive steganographic codes to create more choices for users. Moreover, we want to solve the long-lasting problem of whether lossy source codes-based near-optimal adaptive steganographic coding exists. In this paper, we consider using Low-Density Generator-Matrix (LDGM) codes in adaptive steganography where a new algorithm is proposed. First, we describe the framework of our LDGM codes-based steganographic coding algorithm and establish rigorous upper bounds on average embedding efficiency for individual LDGM steganographic codes with a given information bit degree distribution under the constant distortion profile. Then, we give a provably optimal method of distortion incorporation for adaptive steganography and provide the corresponding log-domain Belief Propagation Guided Decimation (log-BPGD) algorithm to minimize the additive distortion. The syndrome coding technique is applied to realize definitive encoding and decoding of the secret message. We report experiments for various distortion profiles, payload rates, and code lengths. The results verify the near-optimal performance of the proposed method, by which the possibility of designing near-optimal adaptive steganographic coding methods based on lossy source coding is confirmed.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
+
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
+
+# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
