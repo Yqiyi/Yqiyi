@@ -8,8 +8,8 @@ date: 2024-09-01
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
- authors:
-   - admin
+# authors:
+#   - admin
 
  tags:
    - teaching
