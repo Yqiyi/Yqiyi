@@ -1,6 +1,6 @@
 ---
 title: Course Assistant (CA)
-summary: aaa
+summary: In Fall 2024, 
 date: 2024-09-01
 
 # Featured image
