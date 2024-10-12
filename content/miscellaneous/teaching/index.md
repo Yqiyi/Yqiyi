@@ -1,6 +1,6 @@
 ---
 title: Course Assistant (CA)
-summary: In Fall 2024, I am the Course Assistant (CA) of CYSC6405P.01“:” Information Hiding.
+summary: In Fall 2024, I am the Course Assistant (CA) of CYSC6405P.01 : Information Hiding.
 date: 2024-09-01
 
 # Featured image
@@ -8,12 +8,9 @@ date: 2024-09-01
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
-# authors:
-#   - admin
-#   - Ted
+ authors:
+   - admin
 
-# tags:
-#   - Academic
-#   - Hugo Blox
-#   - Markdown
+ tags:
+   - teaching
 ---
