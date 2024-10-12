@@ -1,6 +1,6 @@
 ---
 title: Course Assistant (CA)
-summary: In Fall 2024, 
+summary: In Fall 2024, I am the Course Assistant (CA) of 
 date: 2024-09-01
 
 # Featured image
