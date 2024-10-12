@@ -1,6 +1,6 @@
 ---
 title: Course Assistant (CA)
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: In Fall 2024, I am the Course Assistant (CA) of CYSC6405P.01: Information Hiding.
 date: 2024-09-01
 
 # Featured image
