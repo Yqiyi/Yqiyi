@@ -1,5 +1,5 @@
 ---
-title: 'Optimality of polar codes in additive steganography under constant distortion profile'
+title: 'Optimality of Polar Codes in Additive Steganography under Constant Distortion Profile'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
