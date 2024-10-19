@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:qyyao@mail.ustc.edu.cn'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: [https://scholar.google.com/](https://scholar.google.com/citations?user=zVyvNC8AAAAJ&hl=en&oi=ao)
+    url: https://scholar.google.com/citations?user=zVyvNC8AAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0009-0007-5269-6491
 #  - icon: brands/x
