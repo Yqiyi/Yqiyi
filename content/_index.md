@@ -23,8 +23,8 @@ sections:
       button:
         text: Download CV
         url: uploads/Vitae.pdf
-    design:
-       columns: '1'
+#    design:
+#       columns: '1'
 #      css_class: dark
 #       background:
 #         color: 'ivory'
