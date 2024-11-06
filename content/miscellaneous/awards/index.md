@@ -16,5 +16,4 @@ date: 2024-09-01
 ---
 
 First-class scholarship: USTC, 2024
-
 First-class scholarship: USTC, 2021
