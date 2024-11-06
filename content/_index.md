@@ -20,9 +20,9 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
       # Show a call-to-action button under your biography? (optional)
-    button:
-      text: Download CV
-      url: uploads/Vitae.pdf
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
 #    design:
 #       columns: '1'
 #      css_class: dark
