@@ -1,6 +1,6 @@
 ---
 title: Awards and Honors
-summary: "I was awarded the first prize scholarship in 2021 and 2024."
+summary: "I was awarded the first-class scholarship in 2021 and 2024."
 date: 2024-09-01
 
 # Featured image
@@ -14,3 +14,7 @@ date: 2024-09-01
 # tags:
 #   - teaching
 ---
+
+First-class scholarship: University of Science & technology of China      2024
+
+First-class scholarship: University of Science & technology of China      2021
