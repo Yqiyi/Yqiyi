@@ -15,6 +15,6 @@ date: 2024-09-01
 #   - teaching
 ---
 
-First-class scholarship: University of Science & technology of China, 2024
+First-class scholarship: USTC, 2024
 
-First-class scholarship: University of Science & technology of China, 2021
+First-class scholarship: USTC, 2021
