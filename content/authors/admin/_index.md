@@ -52,14 +52,14 @@ interests:
 #  - Covert Communications
 
 education:
-  - area: B.S. in Computer Science & Technology
-    institution: Sun Yat-sen University (SYSU)
-    date_start: 2016-09-01
-    date_end: 2020-06-30
   - area: Ph.D. in Cyber Science & Technoloogy (Cybersecurity)
     institution: University of Science & Technology of China (USTC)
     date_start: 2020-09-01
 #    date_end: 2020-12-31
+  - area: B.S. in Computer Science & Technology
+    institution: Sun Yat-sen University (SYSU)
+    date_start: 2016-09-01
+    date_end: 2020-06-30
 #    summary: |
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
