@@ -5,11 +5,11 @@ authors:
 - Weiming Zhang
 - Kejiang Chen
 - Nenghai Yu
-date: "2024-04-25T00:00:00Z"
+date: "2024-01-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-04-25T00:00:00Z"
+publishDate: "2024-01-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,8 +17,8 @@ publishDate: "2024-04-25T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted, IEEE Transactions on Information Theory"
-publication_short: "Submitted, IEEE TIT"
+publication: "In Preparation"
+publication_short: "In Preparation"
 
 abstract: We consider using polar codes for lossy source coding of a symmetric Discrete Memoryless Source (DMS) with a time-varying distortion measure instead of the conventional fixed single-letter distortion measure in this paper. First, the specific lossy source coding problem is formally stated and the rate-distortion bound is developed. Second, with the theoretical pursuit, a polar codes-based scheme is proposed. The code construction step of the scheme takes in the non-stationary sequence of test channels corresponding to the test channel model between the source sequence and the recovered sequence of the lossy source coding problem. Then, a Successive Cancellation (SC) encoder is employed to perform the actual encoding of the source sequence. We develop the optimal characterizations of the test channels, with which the proposed method shows near-optimal performance very close to the rate-distortion bound. We further prove that given the sufficient condition of fast source polarization, the proposed method under a randomized SC encoder achieves the rate-distortion bound for the given source settings when the source length N tends to infinity.
 
