@@ -3,16 +3,15 @@ title: "Vector Database Watermarking"
 authors:
 - Zhiwen Ren
 - admin
-- Zehua Ma
-- Kejiang Chen
 - Wei Fan
+- Jing Qiu
 - Weiming Zhang
 - Nenghai Yu
-date: "2024-12-26T00:00:00Z"
+date: "2024-01-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-12-26T00:00:00Z"
+publishDate: "2024-01-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,13 +19,15 @@ publishDate: "2024-12-26T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In Preparation, Proceedings of the ACM SIGSAC Conference on Computer and Communications Security"
-publication_short: "In Preparation, ACM CCS 2025"
+publication: "Submitted, Proceedings of the ACM SIGSAC Conference on Computer and Communications Security"
+publication_short: "Submitted, ACM CCS 2025"
 
-abstract: High-dimensional vector data can represent complex objects such as words, images, and videos, essential to machine learning (ML), natural language processing (NLP), and other AI tasks. Vector databases store vector data and serve key functions in AI and ML applications, such as retrieval-augmented generation (RAG), recommendation engines, and vector search. With the rapid increase in relevant AI applications, the use of vector databases has become more frequent, and the value of vector data has also increased. Thus, the issue of data security and copyright protection of vector databases is very important. In operation, the approximate nearest neighbor (ANN) search is commonly adopted to quickly and accurately retrieve and deliver data neighboring the queried vector in one vector database. In various ANN algorithms, the Hierarchical Navigable Small World (HNSW) has become one of the most commonly used due to its excellent performance. In this paper, we propose the Transparent Vector Prioritization watermarking method (\textbf{TVP}), leveraging the characteristics of HNSW to minimize the impact of watermark embedding on vector database queries. Specifically, we define and model the watermarking impact on vector database query and find highly transparent vectors, which have fewer edges in HNSW and are queried much less frequently than others. Then, we analyze the potential causes behind these vectors, design the corresponding detection algorithms, and embed watermarks on them. Experimental results show that the proposed method has fewer query errors, reducing the number of false queries and missed queries by about 70% compared to applying existing database watermarking methods directly to vector databases, and maintains strong robustness.
+abstract: Vector databases leverage Approximate Nearest Neighbor (ANN) query capabilities to support tasks such as image retrieval and Retrieval-Augmented Generation (RAG), making them highly valuable digital assets. However, they also face security threats like unauthorized replication. By embedding invisible information, watermarking technology can be used for ownership authentication. This paper introduces the first watermarking scheme specifically designed for vector databases. The scheme consists of four steps: generating identifiers, grouping, cryptographic mapping 
+ , and modification. Since watermark embedding requires modification of certain vectors, it may negatively affect the ANN query results. Further investigation reveals that in the widely used Hierarchical Navigable Small World (HNSW) indexing structure for vector databases, heuristic edge selection and pruning strategies result in some vectors having fewer edges or even none at all. These vectors exhibit significantly lower query frequencies than others, which means that modifying these vectors incurs less impact on query results. Based on this observation, we propose the Transparent Vector Priority (TVP) watermarking scheme, which prioritizes embedding watermark in these low-query-frequency “transparent” vectors to minimize the impact of watermark embedding on query results. Experimental results show that compared to the current most effective and relevant watermarking schemes, the TVP scheme can significantly reduce the number of missed and false queries by approximately 75%.
 
 # Summary. An optional shortened abstract.
-summary: High-dimensional vector data can represent complex objects such as words, images, and videos, essential to machine learning (ML), natural language processing (NLP), and other AI tasks. Vector databases store vector data and serve key functions in AI and ML applications, such as retrieval-augmented generation (RAG), recommendation engines, and vector search. With the rapid increase in relevant AI applications, the use of vector databases has become more frequent, and the value of vector data has also increased. Thus, the issue of data security and copyright protection of vector databases is very important. In operation, the approximate nearest neighbor (ANN) search is commonly adopted to quickly and accurately retrieve and deliver data neighboring the queried vector in one vector database. In various ANN algorithms, the Hierarchical Navigable Small World (HNSW) has become one of the most commonly used due to its excellent performance. In this paper, we propose the Transparent Vector Prioritization watermarking method (\textbf{TVP}), leveraging the characteristics of HNSW to minimize the impact of watermark embedding on vector database queries. Specifically, we define and model the watermarking impact on vector database query and find highly transparent vectors, which have fewer edges in HNSW and are queried much less frequently than others. Then, we analyze the potential causes behind these vectors, design the corresponding detection algorithms, and embed watermarks on them. Experimental results show that the proposed method has fewer query errors, reducing the number of false queries and missed queries by about 70% compared to applying existing database watermarking methods directly to vector databases, and maintains strong robustness.
+summary: Vector databases leverage Approximate Nearest Neighbor (ANN) query capabilities to support tasks such as image retrieval and Retrieval-Augmented Generation (RAG), making them highly valuable digital assets. However, they also face security threats like unauthorized replication. By embedding invisible information, watermarking technology can be used for ownership authentication. This paper introduces the first watermarking scheme specifically designed for vector databases. The scheme consists of four steps: generating identifiers, grouping, cryptographic mapping 
+ , and modification. Since watermark embedding requires modification of certain vectors, it may negatively affect the ANN query results. Further investigation reveals that in the widely used Hierarchical Navigable Small World (HNSW) indexing structure for vector databases, heuristic edge selection and pruning strategies result in some vectors having fewer edges or even none at all. These vectors exhibit significantly lower query frequencies than others, which means that modifying these vectors incurs less impact on query results. Based on this observation, we propose the Transparent Vector Priority (TVP) watermarking scheme, which prioritizes embedding watermark in these low-query-frequency “transparent” vectors to minimize the impact of watermark embedding on query results. Experimental results show that compared to the current most effective and relevant watermarking schemes, the TVP scheme can significantly reduce the number of missed and false queries by approximately 75%.
 
 tags:
 - Watermarking
