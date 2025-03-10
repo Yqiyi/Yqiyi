@@ -19,8 +19,8 @@ publishDate: "2025-01-10T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted, Proceedings of the ACM SIGSAC Conference on Computer and Communications Security"
-publication_short: "Submitted, ACM CCS 2025"
+publication: "Submitted, Proceedings of the VLDB Volome 18 (for VLDB 2025)"
+publication_short: "Submitted, VLDB 2025"
 
 abstract: "Vector databases leverage Approximate Nearest Neighbor (ANN) query capabilities to support tasks such as image retrieval and Retrieval-Augmented Generation (RAG), making them highly valuable digital assets. However, they also face security threats like unauthorized replication. By embedding invisible information, watermarking technology can be used for ownership authentication. This paper introduces the first watermarking scheme specifically designed for vector databases. The scheme consists of four steps: generating identifiers, grouping, cryptographic mapping 
  , and modification. Since watermark embedding requires modification of certain vectors, it may negatively affect the ANN query results. Further investigation reveals that in the widely used Hierarchical Navigable Small World (HNSW) indexing structure for vector databases, heuristic edge selection and pruning strategies result in some vectors having fewer edges or even none at all. These vectors exhibit significantly lower query frequencies than others, which means that modifying these vectors incurs less impact on query results. Based on this observation, we propose the Transparent Vector Priority (TVP) watermarking scheme, which prioritizes embedding watermark in these low-query-frequency “transparent” vectors to minimize the impact of watermark embedding on query results. Experimental results show that compared to the current most effective and relevant watermarking schemes, the TVP scheme can significantly reduce the number of missed and false queries by approximately 75%."
