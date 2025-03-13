@@ -19,7 +19,7 @@ publishDate: "2025-01-10T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted, Proceedings of the VLDB Volome 18 (for VLDB 2025)"
+publication: "Submitted, Proceedings of the VLDB Volume 18 (for VLDB 2025)"
 publication_short: "Submitted, VLDB 2025"
 
 abstract: "Vector databases leverage Approximate Nearest Neighbor (ANN) query capabilities to support tasks such as image retrieval and Retrieval-Augmented Generation (RAG), making them highly valuable digital assets. However, they also face security threats like unauthorized replication. By embedding invisible information, watermarking technology can be used for ownership authentication. This paper introduces the first watermarking scheme specifically designed for vector databases. The scheme consists of four steps: generating identifiers, grouping, cryptographic mapping 
