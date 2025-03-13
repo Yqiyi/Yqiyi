@@ -14,7 +14,10 @@ date: 2024-09-01
 # tags:
 #   - teaching
 ---
+Outstanding Graduate: USTC, 2025
 
 First-class scholarship: USTC, 2024
 
 First-class scholarship: USTC, 2021
+
+CUDA Certificate: Nvidia China, 2019
