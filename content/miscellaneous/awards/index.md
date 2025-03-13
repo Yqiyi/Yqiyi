@@ -1,6 +1,6 @@
 ---
 title: Awards and Honors
-summary: "I was awarded the first-class scholarship in 2021 and 2024."
+summary: "I was bestowed the USTC Outstanding Graduate Award in 2025."
 date: 2024-09-01
 
 # Featured image
