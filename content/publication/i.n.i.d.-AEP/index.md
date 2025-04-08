@@ -1,15 +1,15 @@
 ---
-title: "The Asymptotic Equipartition Property in the Non-Stationary Memoryless Regime and its Applications in Source Coding and Information Embedding"
+title: "Rate-Distortion Theory of Robust Adaptive Steganographic Coding"
 authors:
 - admin
 - Weiming Zhang
+- Kai Zeng
 - Kejiang Chen
-- Nenghai Yu
-date: "2024-11-05T00:00:00Z"
+date: "2025-04-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-05T00:00:00Z"
+publishDate: "2025-04-08T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,16 +17,16 @@ publishDate: "2024-11-05T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted, IEEE Transactions on Information Theory"
-publication_short: "Submitted, IEEE TIT"
+publication: "Submitted, IEEE Journal on Selected Areas in Communications"
+publication_short: "Submitted, IEEE JSAC"
 
-abstract: "The Asymptotic Equipartition Property (AEP) is a direct consequence of the weak law of large numbers (WLLN) which plays a vital part in the proof of Shannon's source coding theorem regarding the source sequence of independent and identically distributed (i.i.d.) random variables (RVs). In this paper, we show that the AEP also holds in the non-stationary memoryless regime where the sequence of RVs is independent but not necessarily identically distributed (i.n.i.d.). This more general result is called the i.n.i.d.-AEP. We then generalize this result to the i.n.i.d.-joint AEP that considers two sequences of i.n.i.d. RVs. A modified version of the i.n.i.d.-joint AEP called i.n.i.d.-distortion AEP with a time-varying distortion measure is also introduced. Based on the i.n.i.d.-AEP and its generalizations, we present two applications: the non-stationary source coding theorem and the non-stationary information embedding theorem. Specifically, the proof of the non-stationary source coding theorem entails the i.n.i.d.-AEP, while the proof of the non-stationary information embedding theorem mainly depends on the i.n.i.d.-joint AEP and the i.n.i.d.-distortion AEP."
+abstract: "As an important technique to achieve covert communication, steganography has developed greatly in pursuit of the secrecy of concealment suggested by Shannon. The most widely used scheme is called adaptive steganography which is composed of two phases: the distortion calculation phase and the adaptive steganographic coding phase. Conventionally, adaptive steganography assumes a noise-free lossless channel between the sender and the receiver. However, in real-world applications, the stego (cover media with secret messages embedded) would suffer from various lossy operations and be modified during transmission, leading to extraction error at the receiver. In this paper, robust adaptive steganographic coding is considered. We formalize the problem to be a problem of finding the maximum \emph{embedding rate} of a special communication system with a \emph{normalized adaptive distortion function} and a non-stationary memoryless sequence of discrete channels such that the secret message can be communicated without error. The theoretical rate-distortion bound of the problem is established which is a great leap forward in the research field of robust steganography. By modeling the noisy channels in real-world applications into non-stationary discrete memoryless channels (DMCs), our bound can be used to evaluate the existing robust methods and will serve as the ultimate goal for the design of new practical robust adaptive steganographic coding algorithms."
 
 # Summary. An optional shortened abstract.
-summary: "The Asymptotic Equipartition Property (AEP) is a direct consequence of the weak law of large numbers (WLLN) which plays a vital part in the proof of Shannon's source coding theorem regarding the source sequence of independent and identically distributed (i.i.d.) random variables (RVs). In this paper, we show that the AEP also holds in the non-stationary memoryless regime where the sequence of RVs is independent but not necessarily identically distributed (i.n.i.d.). This more general result is called the i.n.i.d.-AEP. We then generalize this result to the i.n.i.d.-joint AEP that considers two sequences of i.n.i.d. RVs. A modified version of the i.n.i.d.-joint AEP called i.n.i.d.-distortion AEP with a time-varying distortion measure is also introduced. Based on the i.n.i.d.-AEP and its generalizations, we present two applications: the non-stationary source coding theorem and the non-stationary information embedding theorem. Specifically, the proof of the non-stationary source coding theorem entails the i.n.i.d.-AEP, while the proof of the non-stationary information embedding theorem mainly depends on the i.n.i.d.-joint AEP and the i.n.i.d.-distortion AEP."
+summary: "As an important technique to achieve covert communication, steganography has developed greatly in pursuit of the secrecy of concealment suggested by Shannon. The most widely used scheme is called adaptive steganography which is composed of two phases: the distortion calculation phase and the adaptive steganographic coding phase. Conventionally, adaptive steganography assumes a noise-free lossless channel between the sender and the receiver. However, in real-world applications, the stego (cover media with secret messages embedded) would suffer from various lossy operations and be modified during transmission, leading to extraction error at the receiver. In this paper, robust adaptive steganographic coding is considered. We formalize the problem to be a problem of finding the maximum \emph{embedding rate} of a special communication system with a \emph{normalized adaptive distortion function} and a non-stationary memoryless sequence of discrete channels such that the secret message can be communicated without error. The theoretical rate-distortion bound of the problem is established which is a great leap forward in the research field of robust steganography. By modeling the noisy channels in real-world applications into non-stationary discrete memoryless channels (DMCs), our bound can be used to evaluate the existing robust methods and will serve as the ultimate goal for the design of new practical robust adaptive steganographic coding algorithms."
 
 tags:
-- Shannon Theory
+- Steganographic Coding
 
 featured: false
 
