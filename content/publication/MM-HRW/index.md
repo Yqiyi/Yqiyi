@@ -1,5 +1,5 @@
 ---
-title: "Rate-Distortion Theory of Robust Adaptive Steganographic Coding"
+title: "A New Weight Function for Highest Random Weight Scheme and its Efficient Lookup Implementations"
 authors:
 - Muhammad Waqas
 - Sian-Jheng Lin
