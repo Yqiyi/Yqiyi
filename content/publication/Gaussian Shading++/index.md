@@ -1,5 +1,5 @@
 ---
-title: "Lossy Polar Coding for a Symmetric Discrete Memoryless Source with a Time-Varying Distortion Measure"
+title: "Gaussian Shading++: Rethinking the Realistic Deployment Challenge of Performance-Lossless Image Watermark for Diffusion Models"
 authors:
 - Zijin Yang
 - Xin Zhang
