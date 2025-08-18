@@ -55,7 +55,7 @@ education:
   - area: Ph.D. in Cyber Science & Technoloogy (Cyberspace Security)
     institution: University of Science & Technology of China (USTC)
     date_start: 2020-09-01
-#    date_end: 2020-12-31
+    date_end: 2025-06-30
   - area: B.Eng. in Computer Science & Technology
     institution: Sun Yat-sen University (SYSU)
     date_start: 2016-09-01
