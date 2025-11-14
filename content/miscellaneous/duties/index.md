@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous Duties
-summary: "I serve as a reviewer of IEEE Transactions on Communications."
+summary: "I serve as a reviewer for IEEE TCOM and JISAS."
 date: 2024-09-01
 
 # Featured image
@@ -15,5 +15,7 @@ date: 2024-09-01
 #   - teaching
 ---
 Reviewer: 
+
 IEEE Transactions on Communications (IEEE TCOM)
-Journal of information security and applications (JISAS)
+
+Journal of Information Security and Applications (JISAS)
