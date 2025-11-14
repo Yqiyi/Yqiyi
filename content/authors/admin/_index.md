@@ -189,5 +189,4 @@ work:
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently a Ph.D. Candidate at the School of Cyber Science & Technology, University of Science & Technology of China (USTC). I work in a number of areas related to the theoretical and practical aspects of computer science, but primarily in steganography and coding theory.
-I will approximately graduate in June, 2025.
+I am currently a Postdoctoral Researcher at the Department of Electrical and Electronics Engineering, Bilkent University, working with [Prof. Tolga M. Duman](http://ctar.bilkent.edu.tr/index.php/tolga-m-duman/). I work in a number of areas related to the theoretical and practical aspects of computer science, but primarily in steganography, coding theory, and DNA storage systems.
