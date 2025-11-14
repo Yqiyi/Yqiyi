@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Science & Technology of China
-    url: https://en.ustc.edu.cn/
+  - name: Bilkent University
+    url: https://w3.bilkent.edu.tr/bilkent/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +47,9 @@ profiles:
 #    url: https://www.linkedin.com/
 
 interests:
-  - Information Theory
-  - Communications
-#  - Covert Communications
+  - Coding Theory
+  - Steganography
+  - DNA Storage Systems
 
 education:
   - area: Ph.D. in Cyber Science & Technoloogy (Cyberspace Security)
@@ -89,13 +89,13 @@ education:
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
-# work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
+work:
+  - position: Postdoctoral Researcher
+    company_name: Bilkent University
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-10-01
+    date_end: ''
 
     
 #    summary: |2-
