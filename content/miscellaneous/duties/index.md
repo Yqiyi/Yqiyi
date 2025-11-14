@@ -14,4 +14,6 @@ date: 2024-09-01
 # tags:
 #   - teaching
 ---
-Reviewer: IEEE Transactions on Communications (TCOM)
+Reviewer: 
+IEEE Transactions on Communications (IEEE TCOM)
+Journal of information security and applications (JISAS)
