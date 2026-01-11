@@ -56,10 +56,14 @@ education:
     institution: University of Science & Technology of China (USTC)
     date_start: 2020-09-01
     date_end: 2025-06-30
+    summary: |
+      Advisor [Prof. Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/#)
   - area: B.Eng. in Computer Science & Technology
     institution: Sun Yat-sen University (SYSU)
     date_start: 2016-09-01
     date_end: 2020-06-30
+
+
 #    summary: |
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
