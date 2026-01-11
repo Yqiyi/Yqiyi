@@ -57,7 +57,7 @@ education:
     date_start: 2020-09-01
     date_end: 2025-06-30
     summary: |
-      Advisor: [Prof. Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/#)
+      'Advisor: [Prof. Weiming Zhang](http://staff.ustc.edu.cn/~zhangwm/#)'
   - area: B.Eng. in Computer Science & Technology
     institution: Sun Yat-sen University (SYSU)
     date_start: 2016-09-01
