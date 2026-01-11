@@ -102,6 +102,8 @@ work:
     company_logo: ''
     date_start: 2025-10-01
     date_end: ''
+    summary: |
+      Supervisor: Prof. Tolga M. Duman
 
     
 #    summary: |2-
