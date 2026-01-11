@@ -57,11 +57,13 @@ education:
     date_start: 2020-09-01
     date_end: 2025-06-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by Prof. Weiming Zhang.
+      Advisor: Prof. Weiming Zhang
   - area: B.Eng. in Computer Science & Technology
     institution: Sun Yat-sen University (SYSU)
     date_start: 2016-09-01
     date_end: 2020-06-30
+    summary: |
+      Advisor: Prof. Fangjun Huang
 
 
 #    summary: |
