@@ -111,15 +111,17 @@ work:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Outstanding Graduate Award
-    date: '2025'
+    date: '2025-06-01'
     awarder: University of Science and Technology of China
-    summary: |
-#  - title: First-class Scholarship
-#    date: '2021 & 2024'
-#    awarder: University of Science and Technology of China
-#  - title: CUDA Certificate
-#    date: '2019'
-#    awarder: Nvidia China
+  - title: First-class Scholarship
+    date: '2021-09-01'
+    awarder: University of Science and Technology of China
+  - title: First-class Scholarship
+    date: '2024-09-01'
+    awarder: University of Science and Technology of China
+  - title: CUDA Certificate
+    date: '2019-06-01'
+    awarder: Nvidia China
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
 #    icon: coursera
 #    summary: |
