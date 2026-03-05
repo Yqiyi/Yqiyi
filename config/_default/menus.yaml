@@ -6,19 +6,19 @@
 main:
   - name: Home
     url: /
-    weight: 8
+    weight: 7
   - name: Publications
     url: /#papers
-    weight: 9
-    - name: Awards and Honors
+    weight: 8
+  - name: Awards and Honors
     url: /#awards
-    weight: 11
+    weight: 9
   - name: Miscellaneous
     url: /#miscellaneous
-    weight: 12
+    weight: 11
   - name: Contact
     url: /#contact
-    weight: 13
+    weight: 12
 #  - name: Talks
 #    url: /#talks
 #    weight: 13
