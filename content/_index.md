@@ -47,6 +47,11 @@ sections:
       date_format: 'January, 2006'
       is_education_first: false
 
+  - block: resume-awards
+    content:
+      title: Awards and Honors
+      username: admin
+
 #  - block: collection
 #    id: papers
 #    content:
