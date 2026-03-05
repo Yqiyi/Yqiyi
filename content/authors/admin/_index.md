@@ -113,12 +113,13 @@ awards:
   - title: Outstanding Graduate Award
     date: '2025'
     awarder: University of Science and Technology of China
-  - title: First-class Scholarship
-    date: '2021 & 2024'
-    awarder: University of Science and Technology of China
-  - title: CUDA Certificate
-    date: '2019'
-    awarder: Nvidia China
+    summary: |
+#  - title: First-class Scholarship
+#    date: '2021 & 2024'
+#    awarder: University of Science and Technology of China
+#  - title: CUDA Certificate
+#    date: '2019'
+#    awarder: Nvidia China
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
 #    icon: coursera
 #    summary: |
