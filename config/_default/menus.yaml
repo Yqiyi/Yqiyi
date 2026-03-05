@@ -12,13 +12,13 @@ main:
     weight: 9
     - name: Awards and Honors
     url: /#awards
-    weight: 10
+    weight: 11
   - name: Miscellaneous
     url: /#miscellaneous
-    weight: 11
+    weight: 12
   - name: Contact
     url: /#contact
-    weight: 12
+    weight: 13
 #  - name: Talks
 #    url: /#talks
 #    weight: 13
