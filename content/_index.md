@@ -48,6 +48,7 @@ sections:
       is_education_first: false
 
   - block: resume-awards
+    id: awards
     content:
       title: Awards and Honors
       username: admin
