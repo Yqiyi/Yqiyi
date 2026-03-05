@@ -114,10 +114,10 @@ awards:
     date: '2025-06-01'
     awarder: University of Science and Technology of China
   - title: First-class Scholarship
-    date: '2021-09-01'
+    date: '2024-09-01'
     awarder: University of Science and Technology of China
   - title: First-class Scholarship
-    date: '2024-09-01'
+    date: '2021-09-01'
     awarder: University of Science and Technology of China
   - title: CUDA Certificate
     date: '2019-06-01'
