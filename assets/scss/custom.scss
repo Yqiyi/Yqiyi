@@ -1,6 +1,7 @@
-.avatar,
-.avatar img,
-.author-avatar,
-.author-avatar img {
+.rounded-full {
   border-radius: 0 !important;
+}
+
+.avatar {
+  object-fit: contain !important;
 }
