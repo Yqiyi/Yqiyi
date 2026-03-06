@@ -7,7 +7,7 @@ main:
   - name: Home
     url: /
     weight: 6
-  - name: Awards and Honors
+  - name: Awards
     url: /#awards
     weight: 7
   - name: Publications
