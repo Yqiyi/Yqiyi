@@ -119,9 +119,9 @@ awards:
   - title: First-class Scholarship
     date: '2021-09-01'
     awarder: University of Science and Technology of China
-  - title: CUDA Certificate
-    date: '2019-06-01'
-    awarder: Nvidia
+#  - title: CUDA Certificate
+#    date: '2019-06-01'
+#    awarder: Nvidia
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
 #    icon: coursera
 #    summary: |
