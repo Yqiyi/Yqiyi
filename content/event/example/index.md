@@ -1,5 +1,5 @@
 ---
-title: DNA Data Storage: Fundamentals and Challenges
+title: 'DNA Data Storage: Fundamentals and Challenges'
 
 event: Bilkent University - Graduate Research Seminar
 event_url: https://example.org
