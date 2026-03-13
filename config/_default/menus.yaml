@@ -13,12 +13,15 @@ main:
   - name: Publications
     url: /#papers
     weight: 8
+  - name: Talks
+    url: /#events
+    weight: 9
   - name: Miscellaneous
     url: /#miscellaneous
-    weight: 9
+    weight: 10
   - name: Contact
     url: /#contact
-    weight: 10
+    weight: 11
 #  - name: Talks
 #    url: /#talks
 #    weight: 13
