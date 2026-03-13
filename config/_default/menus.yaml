@@ -14,7 +14,7 @@ main:
     url: /#papers
     weight: 8
   - name: Talks
-    url: /#events
+    url: /#talks
     weight: 9
   - name: Miscellaneous
     url: /#miscellaneous
