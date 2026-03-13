@@ -18,12 +18,12 @@ This presentation introduces the fundamental principles of DNA data storage syst
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-03-13T15:30:00Z'
-date_end: '2026-03-13T16:20:00Z'
+date: '2026-03-13T12:30:00Z'
+date_end: '2026-03-13T13:20:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-03-13T17:00:00Z'
+publishDate: '2026-03-13T14:00:00Z'
 
 authors:
   - admin
