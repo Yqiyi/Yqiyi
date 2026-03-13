@@ -18,8 +18,8 @@ This presentation introduces the fundamental principles of DNA data storage syst
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-03-13T12:30:00Z'
-date_end: '2026-03-13T13:20:00Z'
+date: '2026-03-13T15:30:00Z'
+date_end: '2026-03-13T16:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -45,7 +45,7 @@ image:
 #    url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
-#url_video: 'https://youtube.com'
+#    url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -63,14 +63,14 @@ slides: ""
 #  - example
 ---
 
-#{{% callout note %}}
-#Click on the **Slides** button above to view the built-in slides feature.
-#{{% /callout %}}
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
 
-#Slides can be added in a few ways:
+# Slides can be added in a few ways:
 
-#- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` #parameter in the front matter of the talk file
-#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+# - **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` # parameter in the front matter of the talk file
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-#Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+# Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
