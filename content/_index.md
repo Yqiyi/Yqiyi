@@ -85,6 +85,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+      css_class: narrow-section
 
   - block: collection
     id: miscellaneous
