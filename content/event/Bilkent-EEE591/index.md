@@ -23,7 +23,7 @@ date_end: '2026-03-13T16:20:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-03-16T00:00:00Z'
+publishDate: '2026-03-13T17:00:00Z'
 
 authors:
   - admin
