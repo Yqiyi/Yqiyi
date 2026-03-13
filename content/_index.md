@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2024-07-12
+date: 2026-03-16
 type: landing
 
 design:
@@ -75,16 +75,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-#  - block: collection
-#    id: talks
-#    content:
-#      title: Recent & Upcoming Talks
-#      filters:
-#        folders:
-#          - event
-#    design:
-#      view: article-grid
-#      columns: 1
+  - block: collection
+    id: talks
+    content:
+      title: Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
 
   - block: collection
     id: miscellaneous
