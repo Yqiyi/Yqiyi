@@ -42,7 +42,7 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-#url_code: 'https://github.com'
+#    url_code: 'https://github.com'
 url_pdf: ''
 url_slides: 'https://slideshare.net'
 #url_video: 'https://youtube.com'
@@ -59,7 +59,7 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
+# projects:
 #  - example
 ---
 
