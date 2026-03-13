@@ -34,7 +34,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'poster'
+  caption: 'Event Poster'
   focal_point: Right
 
 #links:
@@ -62,5 +62,3 @@ slides: ""
 # projects:
 #  - example
 ---
-
-# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
